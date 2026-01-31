@@ -1,0 +1,2 @@
+# D-Lite-Electronics-Sales-Dashboard-AINOW-Excel-Capstone-Project-
+This project presents an Interactive Excel dashboard analyzing D-Lite Electronics sales. Displays revenue, units sold, customers, products, and regions using pivot tables, charts, and slicers. Reveals monthly trends, top performers, and weak areas, demonstrating skills in data cleaning, analysis, and dashboard design for data-driven decisions
