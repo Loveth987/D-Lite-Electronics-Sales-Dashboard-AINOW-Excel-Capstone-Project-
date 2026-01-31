@@ -1,4 +1,4 @@
-📌 Project Overview
+# Project Overview
 
 # 📊 D-Lite-Electronics-Sales-Dashboard-AINOW-Excel-Capstone-Project-
 This project presents a comprehensive sales performance analysis for D-Lite Electronics using Microsoft Excel. The dashboard provides actionable insights into revenue trends, customer contribution, regional performance, and product/category sales distribution.
